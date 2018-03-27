@@ -1,6 +1,6 @@
 ##Things I Have Learned at Bloc.io
-* HTML
-* CSS
-* Git
-* Command Line
-* GitHub
+1. HTML
+2. CSS
+3. Git
+4. Command Line
+5. GitHub
